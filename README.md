@@ -3,5 +3,5 @@
     <figure>
         <img src="https://i.imgur.com/Z8yf76C.png" width="500px">
     </figure>
-    <p>myself</p>
+    <p>Fig. 1: myself</p>
 </div>
