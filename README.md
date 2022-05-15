@@ -3,5 +3,5 @@
     <figure>
         <img src="https://i.imgur.com/Z8yf76C.png" width="500px">
     </figure>
-    <p>Figure 1: myself</p>
+    <p>myself (any pronouns)</p>
 </div>
