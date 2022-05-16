@@ -2,7 +2,7 @@
     <a href="#"><img src="https://img.shields.io/badge/server%20location-singapore-fd5901"></a>
     <a href="#"><img src="https://img.shields.io/badge/machine-Macbook%20Air%202020-f78104"></a>
     <a href="#"><img src="https://img.shields.io/badge/pronouns-any-249ea0"></a>
-    <a href="#"><img src="https://img.shields.io/badge/how-shall%20we%20comfort%20ourselves-005f60"></a>
+    <a href="#"><img src="https://img.shields.io/badge/how-shall%20we%20comfort%20ourselves%3F-005f60"></a>
     <h1>greetings.</h1>
     <figure>
         <img src="https://i.imgur.com/Z8yf76C.png" width="500px">
