@@ -10,7 +10,7 @@
 </div>
 <br>
 
-### i am `~/.objecteds`, a real human being.
+### i am `~/.objected`, a real human being.
 
 - [x] local cryptid who's really not that local at all because i stay home all the time
 - [x] INTP 5w4 Taurus RLUEI blah blah pseudoscientific "facts" to revolve one's non-existent personality around
