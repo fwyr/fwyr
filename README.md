@@ -13,11 +13,9 @@
 ### i am `~/.objected`, a real human being.
 
 - [x] local cryptid who's really not that local at all because i stay home all the time
-- [x] INTP 5w4 Taurus RLUEI whatever pseudoscience you're interested in
 - [x] fluent in english, python, and c++ but my mandarin grades are still failing
 - [x] secretly a computer in disguise beep boop
-- [x] ars longa, vita brevis
 
-alright that's it, don't snoop around in my repositories for too long or the exterminators'll get ya
+alright, don't snoop around in my repositories for too long or the exterminators'll get ya
 <hr>
 
