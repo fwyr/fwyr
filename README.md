@@ -12,10 +12,8 @@
 
 ### i am `~/.objected`, a real human being.
 
-- [x] local cryptid who's really not that local at all because i stay home all the time
+- [x] internet cryptid, secretly a computer
 - [x] fluent in english, mandarin, python and c++
-- [x] secretly a computer in disguise beep boop
+- [x] amateurgramming since 2020
 
-alright, don't snoop around in my repositories for too long or the exterminators'll get ya
 <hr>
-
