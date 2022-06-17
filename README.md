@@ -12,7 +12,7 @@
 
 ### i am `~/.objected`, a real human being.
 
-- [x] internet cryptid, secretly a computer
+- [x] internet cryptid
 - [x] fluent in english, mandarin, python and c++
 - [x] amateurgramming since 2020
 
