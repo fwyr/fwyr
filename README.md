@@ -15,5 +15,6 @@
 - [x] internet cryptid
 - [x] fluent in english, mandarin, python and c++
 - [x] amateurgramming since 2020
+- [x] learning rust to stay hip and cool
 
 <hr>
