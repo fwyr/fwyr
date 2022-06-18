@@ -4,7 +4,7 @@
     <h1>welcome to the weary west, wanderer.</h1>
 </div>
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fcf%2Fe1%2Fd3%2Fcfe1d3ae3e1a89a738dc5210e13d3701.gif&f=1&nofb=1" width="600px" align="left">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fcf%2Fe1%2Fd3%2Fcfe1d3ae3e1a89a738dc5210e13d3701.gif&f=1&nofb=1" width="500px" align="left">
 
 <hr>
 
@@ -29,9 +29,4 @@ centered among the islands of [**Singapore**](https://en.wikipedia.org/wiki/Sing
 armed with a bare-bones [**MacBook Air**](https://support.apple.com/kb/SP813?locale=en_US), <br>
 not only do i like cold, cruel science, <br>
 but i also value music, literature, and privacy. <br>
-
-in these parts, the woods shift in mysterious ways, <br>
-so come again, dear traveller, things might change. <br>
-
-<hr>
 
