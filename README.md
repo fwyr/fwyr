@@ -4,7 +4,7 @@
     <h1>welcome to the weary west, wanderer.</h1>
 </div>
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fcf%2Fe1%2Fd3%2Fcfe1d3ae3e1a89a738dc5210e13d3701.gif&f=1&nofb=1" width="55%" align="left">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fcf%2Fe1%2Fd3%2Fcfe1d3ae3e1a89a738dc5210e13d3701.gif&f=1&nofb=1" width="54%" align="left">
 
 <hr>
 
@@ -21,9 +21,9 @@ enduring arduous journeys with [**C++**](https://cplusplus.com/), <br>
 learning modernity using [**Rust**](https://rust-lang.org/).
 
 fascinated with **Machine Learning**, <br>
-whilst spying on **Cybersecurity**, <br>
-do not forget **Data Structures & Algorithms**, <br>
-and the exoticisms of  **Quantum Computing**.
+whilst spying on **Cybersecurity**. <br>
+enthusiastically studying **Data Structures & Algorithms**, <br>
+and the exoticisms of **Quantum Computing**.
 
 centered among the islands of [**Singapore**](https://en.wikipedia.org/wiki/Singapore), <br>
 armed with a bare-bones [**MacBook Air**](https://support.apple.com/kb/SP813?locale=en_US), <br>
