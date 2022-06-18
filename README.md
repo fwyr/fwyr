@@ -1,20 +1,37 @@
 <div align="center">
-    <a href="#"><img src="https://img.shields.io/badge/server%20location-singapore-fd5901"></a>
-    <a href="#"><img src="https://img.shields.io/badge/machine-macbook%20air%202020-f78104"></a>
-    <a href="#"><img src="https://img.shields.io/badge/pronouns-any-249ea0"></a>
-    <a href="#"><img src="https://img.shields.io/badge/how-shall%20we%20comfort%20ourselves%3F-005f60"></a>
-    <h1>greetings.</h1>
-    <figure>
-        <img src="https://i.imgur.com/Z8yf76C.png" width="500px">
-    </figure>
+    <a href="#"><img src="https://img.shields.io/badge/pronouns-he/they/she-286983"></a>
+    <a href="#"><img src="https://img.shields.io/badge/how-shall%20we%20comfort%20ourselves%3F-56949f"></a>
+    <h1>welcome to the weary west, wanderer.</h1>
 </div>
-<br>
 
-### i am `~/.objected`, a real human being.
-
-- [x] internet cryptid
-- [x] fluent in english, mandarin, python and c++
-- [x] amateurgramming since 2020
-- [x] learning rust to stay hip and cool
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fcf%2Fe1%2Fd3%2Fcfe1d3ae3e1a89a738dc5210e13d3701.gif&f=1&nofb=1" width="600px" align="left">
 
 <hr>
+
+### i am `~/.objecteds`, a real human being.
+
+i work through life, <br>
+play with math, <br>
+love to code, <br>
+rinse and repeat. <br>
+
+started out with [**Ruby**](https://www.ruby-lang.org/en/), <br>
+saw the world through [**Python**](https://www.python.org/) and [**JavaScript**](https://developer.mozilla.org/en-US/docs/Web/javascript), <br>
+enduring arduous journeys with [**C++**](https://cplusplus.com/), <br>
+learning modernity using [**Rust**](https://rust-lang.org/).
+
+fascinated with **Machine Learning**, <br>
+whilst spying on **Cybersecurity**, <br>
+do not forget **Data Structures & Algorithms**, <br>
+and the exoticisms of  **Quantum Computing**.
+
+centered among the islands of [**Singapore**](https://en.wikipedia.org/wiki/Singapore), <br>
+armed with a bare-bones [**MacBook Air**](https://support.apple.com/kb/SP813?locale=en_US), <br>
+not only do i like cold, cruel science, <br>
+but i also value music, literature, and privacy. <br>
+
+in these parts, the woods shift in mysterious ways, <br>
+so come again, dear traveller, things might change. <br>
+
+<hr>
+
