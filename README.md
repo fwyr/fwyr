@@ -15,19 +15,29 @@ play with math, <br>
 love to code, <br>
 rinse and repeat. <br>
 
-started out with [**Ruby**](https://www.ruby-lang.org/en/), <br>
-saw the world through [**Python**](https://www.python.org/) and [**JavaScript**](https://developer.mozilla.org/en-US/docs/Web/javascript), <br>
-enduring arduous journeys with [**C++**](https://cplusplus.com/), <br>
-learning modernity using [**Rust**](https://rust-lang.org/).
+i started out with [**Ruby**](https://www.ruby-lang.org/en/), <br>
+saw the world through [**Python**](https://www.python.org/), <br>
+governed beloved cities using [**JavaScript**](https://developer.mozilla.org/en-US/docs/Web/javascript), <br>
+and endured arduous journeys with [**C++**](https://www.cplusplus.com/), <br>
 
-fascinated with **Machine Learning**, <br>
+my fingertips land on [**Sublime Text 4**](https://www.sublimetext.com/), <br>
+hosting my worlds on [**Github Pages**](https://pages.github.com/) and [**Surge**](https://surge.sh/), <br>
+executing lines upon lines on [**Repl.it**](https://www.replit.com/), <br>
+with my secondary brain expressed on [**Obsidian**](https://www.obsidian.md/). <br>
+
+i'm fascinated with **Machine Learning**, <br>
 whilst spying on **Cybersecurity**. <br>
-enthusiastically studying **Data Structures & Algorithms**, <br>
+enthusiastic for **Data Structures & Algorithms**, <br>
 and the exoticisms of **Quantum Computing**.
 
-centered among the islands of [**Singapore**](https://en.wikipedia.org/wiki/Singapore), <br>
+i'd like to venture modernity using [**Rust**](https://www.rust-lang.org/),
+learn the ins-and-outs of [**Tensorflow**](https://www.tensorflow.org/),
+strengthen my stack with the power of [**Vue.js**](https://www.vuejs.org/),
+whilst tinkering hearts and cogs through the [**Arduino**](https://www.arduino.cc/).
+
+i'm centered among the islands of [**Singapore**](https://en.wikipedia.org/wiki/Singapore), <br>
 armed with a bare-bones [**MacBook Air**](https://support.apple.com/kb/SP813?locale=en_US), <br>
 not only do i like cold, cruel science, <br>
-but i also value music, literature, and privacy. <br>
+but i also value arts and ethics. <br>
 
 <hr>
