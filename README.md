@@ -30,11 +30,6 @@ whilst spying on **Cybersecurity**. <br>
 enthusiastic for **Data Structures & Algorithms**, <br>
 and the exoticisms of **Quantum Computing**.
 
-i'd like to venture modernity using [**Rust**](https://www.rust-lang.org/), <br>
-learn the ins-and-outs of [**Tensorflow**](https://www.tensorflow.org/), <br>
-strengthen my stack with the power of [**Vue.js**](https://www.vuejs.org/), <br>
-whilst tinkering hearts and cogs through the [**Arduino**](https://www.arduino.cc/).
-
 i'm centered among the islands of [**Singapore**](https://en.wikipedia.org/wiki/Singapore), <br>
 armed with a bare-bones [**MacBook Air**](https://support.apple.com/kb/SP813?locale=en_US), <br>
 not only do i like cold, cruel science, <br>
