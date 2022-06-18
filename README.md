@@ -4,7 +4,7 @@
     <h1>welcome to the weary west, wanderer.</h1>
 </div>
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F44%2F35%2F7d%2F44357d73e45b050fe351e56b55927844.gif&f=1&nofb=1" width="60%" align="left">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F44%2F35%2F7d%2F44357d73e45b050fe351e56b55927844.gif&f=1&nofb=1" width="50%" align="left">
 
 <hr>
 
