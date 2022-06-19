@@ -1,5 +1,4 @@
 <div align="center">
-    <a href="#"><img src="https://img.shields.io/badge/pronouns-he/they/she-286983"></a>
     <a href="#"><img src="https://img.shields.io/badge/how-shall%20we%20comfort%20ourselves%3F-56949f"></a>
     <h1>welcome to the weary west, wanderer.</h1>
 </div>
