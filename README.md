@@ -37,12 +37,10 @@ but i also value arts and ethics. <br>
 things might change in this barren abode, <br>
 so come again, who knows what you'll see? <br>
 
-<hr><br>
+<hr><br><br><br>
 
 <details close><summary>more information?</summary>
 <br>
-<p>Apologies if the formatting is wrong, as this README is best viewed with a device width of at least 1160 pixels.</p>
-<br><br>
 <h2>🫠</h2>
 
 ```cpp
@@ -121,4 +119,7 @@ int main() {
     <li>Icons and badges by <a href="https://shields.io">shields.io</a> with <a href="https://simpleicons.org/">simple-icons</a></li>
     <li><a href="https://github.com/alexandresanlim/Badges4-README.md-Profile">README Profile Badges</a> by <a href="https://github.com/alexandresanlim">Alexandre Sanlim</a></li>
 </ul>
+
+<br>
+<sub>best viewed with a device width of at least 1160 pixels.</sub>
 </details>
