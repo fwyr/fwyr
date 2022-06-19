@@ -22,7 +22,7 @@ and endured arduous journeys with [**C++**](https://www.cplusplus.com/), <br>
 my fingertips land on [**Sublime Text 4**](https://www.sublimetext.com/), <br>
 hosting my worlds on [**Github Pages**](https://pages.github.com/) and [**Surge**](https://surge.sh/), <br>
 executing lines upon lines on [**Repl.it**](https://www.replit.com/), <br>
-and a whole second brain on [**Obsidian**](https://www.obsidian.md/). <br>
+with a whole second brain on [**Obsidian**](https://www.obsidian.md/). <br>
 
 i'm fascinated with **Machine Learning**, <br>
 whilst spying on **Cybersecurity**. <br>
