@@ -61,7 +61,7 @@ int main() {
     Person my;
     my.name = "objecteds/fwy";
     my.location = "Singapore";
-    my.description = "A student enraptured by the intricacies of mathematics and computer science."
+    my.description = "A student enraptured by the wizardry of maths and compsci."
     my.machine = "13-inch MacBook Air 2020"
     my.pronouns = {"he", "they", "she"};
     my.interests = {"music", "poetry", "contemporary fiction"};
