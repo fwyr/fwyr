@@ -37,7 +37,7 @@ but i also value arts and ethics. <br>
 things might change in this barren abode, <br>
 so come again, who knows what you'll see? <br>
 
-<hr><br><br><br>
+<hr><br><br>
 
 <details close><summary>more information?</summary>
 <br>
