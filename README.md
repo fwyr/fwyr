@@ -35,4 +35,7 @@ armed with a bare-bones [**MacBook Air**](https://support.apple.com/kb/SP813?loc
 not only do i like cold, cruel science, <br>
 but i also value arts and ethics. <br>
 
+things might change in this barren abode. <br>
+so come again, who knows what you'll see. <br>
+
 <hr>
