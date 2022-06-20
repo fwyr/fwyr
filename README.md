@@ -117,9 +117,13 @@ int main() {
 <ul>
     <li><a href="https://waneella.tumblr.com/post/182292641957/almost-all-the-objects-in-this-gif-were-suggested">Astounding artwork</a> by <a href="https://waneella.com">Valeriya "Waneella" Sanchillo</a></li>
     <li>Icons and badges by <a href="https://shields.io">shields.io</a> with <a href="https://simpleicons.org/">simple-icons</a></li>
-    <li><a href="https://github.com/alexandresanlim/Badges4-README.md-Profile">README Profile Badges</a> by <a href="https://github.com/alexandresanlim">Alexandre Sanlim</a></li>
+    <li><a href="https://github.com/alexandresanlim/Badges4-README.md-Profile">README Profile Badges</a> by Alexandre Sanlim</li>
+    <li><a href="https://github.com/Nathan13888/VisitorBadgeReloaded">VisitorBadgeReloaded</a> by Nathan13888</li>
+    <li><a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">Awesome GitHub Profile README</a> by Abhishek Naidu</li>
 </ul>
 
+<br>
+<a href="#"><img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=objecteds-objecteds&text=souls"></a>
 <br>
 <sub>best viewed with a device width of at least 1160 pixels.</sub>
 </details>
