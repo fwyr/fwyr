@@ -41,7 +41,7 @@ so come again, who knows what you'll see? <br>
 
 <details close><summary>more information?</summary>
 <br>
-<h2>🫠</h2>
+<h2 align="center">🫠</h2>
 
 ```cpp
 class Person {
@@ -68,7 +68,7 @@ int main() {
 ```
 
 <br>
-<h2>🛠</h2>
+<h2 align="center">🛠</h2>
 <h3>Ancient Tongues, Modern Dialects</h3>
 <a href="#"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="c++"></a>
 <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="css3"></a>
@@ -113,7 +113,7 @@ int main() {
 
 <br><br>
 
-<h2>❤️</h2>
+<h2 align="center">❤️</h2>
 <ul>
     <li><a href="https://waneella.tumblr.com/post/182292641957/almost-all-the-objects-in-this-gif-were-suggested">Astounding artwork</a> by <a href="https://waneella.com">Valeriya "Waneella" Sanchillo</a></li>
     <li>Icons and badges by <a href="https://shields.io">shields.io</a> with <a href="https://simpleicons.org/">simple-icons</a></li>
