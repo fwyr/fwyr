@@ -57,7 +57,7 @@ class Person {
     
 int main() {
     Person my;
-    my.name = "objecteds/fwy";
+    my.name = "fwy";
     my.location = "Singapore";
     my.description = "A student enraptured by the wizardry of maths and compsci."
     my.machine = "13-inch MacBook Air 2020"
