@@ -46,23 +46,14 @@ so come again, who knows what you'll see? <br>
 ```cpp
 class Person {
     public:
-        string name;
         string location;
-        string description;
         string machine;
-        vector<string> pronouns;
-        vector<string> interests;
         vector<string> human_languages;
 }
     
 int main() {
-    Person my;
-    my.name = "fwy";
     my.location = "Singapore";
-    my.description = "A student enraptured by the wizardry of maths and compsci."
     my.machine = "13-inch MacBook Air 2020"
-    my.pronouns = {"he", "they", "she"};
-    my.interests = {"music", "poetry", "contemporary fiction"};
     my.human_languages = {"English", "Mandarin"};
 }
 ```
