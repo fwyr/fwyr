@@ -19,7 +19,7 @@ saw the world through [**Python**](https://www.python.org/), <br>
 governed beloved cities using [**JavaScript**](https://developer.mozilla.org/en-US/docs/Web/javascript), <br>
 and endured arduous journeys with [**C++**](https://www.cplusplus.com/), <br>
 
-my fingertips land on [**Sublime Text 4**](https://www.sublimetext.com/), <br>
+my fingertips land on [**VSCodium**](https://www.vscodium.com/), <br>
 hosting my worlds on [**Github Pages**](https://pages.github.com/) and [**Surge**](https://surge.sh/), <br>
 executing lines upon lines on [**Repl.it**](https://www.replit.com/), <br>
 with a whole second brain on [**Obsidian**](https://www.obsidian.md/). <br>
@@ -95,6 +95,7 @@ int main() {
 <a href="#"><img src="https://img.shields.io/badge/Replit-667881?style=flat&logo=replit&logoColor=white" alt="replit"></a>
 <a href="#"><img src="https://img.shields.io/badge/Sublime_Text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important" alt="sublime text"></a>
 <a href="#"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white" alt="visual studio code"></a>
+<a href="#"><img src="https://custom-icon-badges.herokuapp.com/badge/VSCodium-007ACC.svg?style=flat&logo=vscodium&logoColor=white" alt="vscodium"></a>
 
 <h3>The Bustling Alcoves I Wander</h3>
 <a href="https://codechef.com/users/foop"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=flat&logo=Codechef&logoColor=white" alt="codechef"></a>
@@ -107,10 +108,11 @@ int main() {
 <h2 align="center">❤️</h2>
 <ul>
     <li><a href="https://waneella.tumblr.com/post/182292641957/almost-all-the-objects-in-this-gif-were-suggested">Astounding artwork</a> by <a href="https://waneella.com">Valeriya "Waneella" Sanchillo</a></li>
-    <li>Icons and badges by <a href="https://shields.io">shields.io</a> with <a href="https://simpleicons.org/">simple-icons</a></li>
-    <li><a href="https://github.com/alexandresanlim/Badges4-README.md-Profile">README Profile Badges</a> by Alexandre Sanlim</li>
-    <li><a href="https://github.com/Nathan13888/VisitorBadgeReloaded">VisitorBadgeReloaded</a> by Nathan13888</li>
-    <li><a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">Awesome GitHub Profile README</a> by Abhishek Naidu</li>
+    <li><a href="https://shields.io">shields.io</a></li>
+    <li><a href="https://simpleicons.org/">simple-icons</a></li>
+    <li><a href="https://github.com/alexandresanlim/Badges4-README.md-Profile">README Profile Badges</a></li>
+    <li><a href="https://github.com/DenverCoder1/custom-icon-badges">custom-icon-badges</a></li>
+    <li><a href="https://github.com/Nathan13888/VisitorBadgeReloaded">VisitorBadgeReloaded</a></li>
 </ul>
 
 <br>
