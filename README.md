@@ -1,6 +1,6 @@
 <div align="center">
     <a href="#"><img src="https://img.shields.io/badge/how-shall%20we%20comfort%20ourselves%3F-56949f"></a>
-    <h1>welcome to the weary west, wanderer.</h1>
+    <h1>welcome to the weary wilds, wanderer.</h1>
 </div>
 
 <a href="#"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F44%2F35%2F7d%2F44357d73e45b050fe351e56b55927844.gif&f=1&nofb=1" width="51%" align="left"></a>
