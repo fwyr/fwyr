@@ -21,12 +21,12 @@ and endured arduous journeys with [**C++**](https://www.cplusplus.com/), <br>
 
 my fingertips land on [**VSCodium**](https://www.vscodium.com/), <br>
 hosting my worlds on [**Github Pages**](https://pages.github.com/) and [**Surge**](https://surge.sh/), <br>
-executing lines upon lines on [**Repl.it**](https://www.replit.com/), <br>
+executing seas of lines on [**Repl.it**](https://www.replit.com/), <br>
 with a whole second brain on [**Obsidian**](https://www.obsidian.md/). <br>
 
 i'm fascinated with **Machine Learning**, <br>
 whilst spying on **Cybersecurity**. <br>
-enthusiastic for **Data Structures & Algorithms**, <br>
+constantly admiring **Competitive Programming**, <br>
 and the exoticisms of **Quantum Computing**.
 
 i'm centered among the islands of [**Singapore**](https://en.wikipedia.org/wiki/Singapore), <br>
