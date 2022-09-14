@@ -17,7 +17,7 @@ rinse and repeat. <br>
 i started out with [**Ruby**](https://www.ruby-lang.org/en/), <br>
 saw the world through [**Python**](https://www.python.org/), <br>
 governed beloved cities using [**JavaScript**](https://developer.mozilla.org/en-US/docs/Web/javascript), <br>
-and endured arduous journeys with [**C++**](https://www.cplusplus.com/), <br>
+and endured arduous journeys with [**C++**](https://isocpp.org/), <br>
 
 my fingertips land on [**VSCodium**](https://www.vscodium.com/), <br>
 hosting my worlds on [**Github Pages**](https://pages.github.com/) and [**Surge**](https://surge.sh/), <br>
