@@ -7,7 +7,7 @@
 
 <hr>
 
-### i am [`~/.objecteds`](https://ablipintime.co), a real human being.
+### i am [`~/.fwyr`](https://ablipintime.co), a real human being.
 
 i work through life, <br>
 play with math, <br>
