@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="#"><img src="https://img.shields.io/badge/how-shall%20we%20comfort%20ourselves%3F-white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/love-thyself-white"></a>
     <h1>welcome to the weary wilds, wanderer.</h1>
 </div>
 
