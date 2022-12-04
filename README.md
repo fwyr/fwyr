@@ -103,10 +103,9 @@ int main() {
 <a href="#"><img src="https://img.shields.io/badge/iTerm2-000000?style=flat&logo=iterm2&logoColor=white" alt="iterm2"></a>
 <a href="#"><img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white" alt="macos"></a>
 
-<h3>The Bustling Alcoves I Wander</h3>
-<a href="https://codechef.com/users/foop"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=flat&logo=Codechef&logoColor=white" alt="codechef"></a>
-<a href="https://codewars.com/users/objecteds"><img src="https://img.shields.io/badge/Codewars-B1361E?style=flat&logo=Codewars&logoColor=white" alt="codewars"></a>
-<a href="https://github.com/objecteds"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="github"></a>
+<h3>Bustling Alcoves</h3>
+<a href="https://codechef.com/users/fwyr"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=flat&logo=Codechef&logoColor=white" alt="codechef"></a>
+<a href="https://github.com/fwyr"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="github"></a>
 <a href="https://gitlab.com/objected"><img src="https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white" alt="gitlab"></a>
 
 <br><br>
