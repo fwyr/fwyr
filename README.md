@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="#"><img src="https://img.shields.io/badge/love-thyself-white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/how-shall%20we%20comfort%20ourselves%3F-white"></a>
     <h1>welcome to the weary wilds, wanderer.</h1>
 </div>
 
@@ -27,7 +27,7 @@ with a whole second brain on [**Obsidian**](https://www.obsidian.md/). <br>
 i'm fascinated with **Machine Learning**, <br>
 whilst spying on **Cybersecurity**. <br>
 constantly admiring **Competitive Programming**, <br>
-and the exoticisms of **Quantum Computing**.
+and the twists and turns of **Applied Mathematics**.
 
 i'm centered among the islands of [**Singapore**](https://en.wikipedia.org/wiki/Singapore), <br>
 armed with a bare-bones [**MacBook Air**](https://support.apple.com/kb/SP813?locale=en_US), <br>
@@ -117,11 +117,7 @@ int main() {
     <li><a href="https://simpleicons.org/">simple-icons</a></li>
     <li><a href="https://github.com/alexandresanlim/Badges4-README.md-Profile">README Profile Badges</a></li>
     <li><a href="https://github.com/DenverCoder1/custom-icon-badges">custom-icon-badges</a></li>
-    <li><a href="https://github.com/Nathan13888/VisitorBadgeReloaded">VisitorBadgeReloaded</a></li>
 </ul>
 
-<br>
-<a href="#"><img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=objecteds-objecteds&text=souls"></a>
-<br>
 <sub>best viewed with a device width of at least 1160 pixels.</sub>
 </details>
