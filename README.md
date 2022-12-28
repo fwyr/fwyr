@@ -3,39 +3,73 @@
     <h1>welcome, wanderer.</h1>
 </div>
 
-<a href="#"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F44%2F35%2F7d%2F44357d73e45b050fe351e56b55927844.gif&f=1&nofb=1" width="51%" align="left"></a>
+<table width="100%">
+    <tr>
+        <th colspan="2" align="center"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fda%2Fe3%2F6a%2Fdae36a74337de05e249ce5afcec907c1.gif&f=1&nofb=1&ipt=06a97be3fcc3145b76a71706870e1e0dbcc61826542a6763b9f7d661acdfb908&ipo=images"></td>
+    </tr>
+    <tr>
+        <th colspan="2" align="center">
 
-<hr>
 
 ### i am [`~/.fwyr`](https://ablipintime.co), a real human being.
 
-i work through life, <br>
-play with math, <br>
-love to code, <br>
-rinse and repeat. <br>
+            
+            
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+    i work through life, <br>
+    play with math, <br>
+    love to code, <br>
+    rinse and repeat.
+</td>
+<td width="50%" align="center">
+    <br>
+    i started out with <a href="https://www.ruby-lang.org/"><strong>Ruby</strong></a>, <br>
+    saw the world through <a href="https://www.python.org/"><strong>Python</strong></a>, <br>
+    painted canvases with <a href="https://developer.mozilla.org/en-US/docs/Web/javascript"><strong>JavaScript</strong></a>, <br>
+    and endured hardships with <a href="https://isocpp.org/">C++</a>. <br>
+    <br>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+    <br>
+    my fingertips land on <a href="https://www.vscodium.com/"><strong>VSCodium</strong></a>, <br>
+    hosting my worlds on <a href="https://surge.sh/"><strong>Surge</strong></a>, <br>
+    relentlessly searching with <a href="https://www.mozilla.org/en-US/firefox/new/"><strong>Firefox</strong></a>, <br>
+    with a second brain on <a href="https://www.obsidian.md/"><strong>Obsidian</strong></a>. <br>
+    <br>
+</td>
+<td width="50%" align="center">
+    <br>
+    i dig deep into <strong>Web Development</strong>, <br>
+    wrecking my brain with <strong>Competitive Programming</strong>. <br>
+    constantly spellbound by <strong>AI & Machine Learning</strong>, <br>
+    whilst spying on the secrets of <strong>Cybersecurity</strong>. <br>
+    <br>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+    i'm centered among the islands of <a href="https://en.wikipedia.org/wiki/Singapore"><strong>Singapore</strong></a>, <br>
+    armed with a bare-bones <a href="https://support.apple.com/kb/SP813?locale=en_US"><strong>Macbook Air</strong></a>, <br>
+    click-clacking away on a <a href="https://www.logitech.com/en-us/products/keyboards/k380-multi-device.920-007558.html"><strong>Logitech keyboard</strong></a>, <br>
+    and scrolling to the moon on an <a href="https://www.oppo.com/"><strong>Oppo smartphone</strong></a>. 
+    <br>
+</td>
+<td width="50%" align="center">
+    <br>
+    not only do i like cold, cruel science, <br>
+    but i also value arts and literature. <br>
+    things might change in this humble abode, <br>
+    so come again, who knows what you'll see? <br>
+    <br>
+</td>
+</tr>
+</table>
 
-i started out with [**Ruby**](https://www.ruby-lang.org/en/), <br>
-saw the world through [**Python**](https://www.python.org/), <br>
-governed beloved cities using [**JavaScript**](https://developer.mozilla.org/en-US/docs/Web/javascript), <br>
-and endured arduous journeys with [**C++**](https://isocpp.org/), <br>
-
-my fingertips land on [**VSCodium**](https://www.vscodium.com/), <br>
-hosting my worlds on [**Github Pages**](https://pages.github.com/) and [**Surge**](https://surge.sh/), <br>
-executing seas of lines on [**Repl.it**](https://www.replit.com/), <br>
-with a whole second brain on [**Obsidian**](https://www.obsidian.md/). <br>
-
-i'm fascinated with **Machine Learning**, <br>
-whilst spying on **Cybersecurity**. <br>
-constantly admiring **Competitive Programming**, <br>
-and the twists and turns of **Applied Mathematics**.
-
-i'm centered among the islands of [**Singapore**](https://en.wikipedia.org/wiki/Singapore), <br>
-armed with a bare-bones [**MacBook Air**](https://support.apple.com/kb/SP813?locale=en_US), <br>
-not only do i like cold, cruel science, <br>
-but i also value arts and ethics. <br>
-
-things might change in this barren abode, <br>
-so come again, who knows what you'll see? <br>
 
 <hr><br>
 
@@ -43,58 +77,50 @@ so come again, who knows what you'll see? <br>
 <br>
 <h2 align="center">🛠</h2>
 <h3>Languages</h3>
-<a href="#"><img src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue" alt="python"></a>
-<a href="#"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="c++"></a>
-<a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="html5"></a>
-<a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="css3"></a>
-<a href="#"><img src="https://img.shields.io/badge/JavaScript-323330?style=flate&logo=javascript&logoColor=F7DF1E" alt="javascript"></a>
-<a href="#"><img src="https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white" alt="ruby"></a>
-<a href="#"><img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white" alt="bash"></a>
-<a href="#"><img src="https://img.shields.io/badge/Markdown-000000?style=flate&logo=markdown&logoColor=white" alt="markdown"></a>
+<a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"></a>
+<a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"></a>
+<a href="#"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python"></a>
+<a href="#"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++"></a>
+<a href="#"><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby"></a>
     
 <h3>Cogs</h3>
-<a href="#"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="bootstrap"></a>
-<a href="#"><img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" alt="sass"></a>
-<a href="#"><img src="https://img.shields.io/badge/Jekyll-CC0000?style=flat&logo=Jekyll&logoColor=white" alt="jekyll"></a>
-<a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="node.js"></a>
-<a href="#"><img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white" alt="npm"></a>
-<a href="#"><img src="https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white" alt="numpy"></a>
-<a href="#"><img src="https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white" alt="pandas"></a>
-<a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="tensorflow"></a>
-<a href="#"><img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white" alt="keras"></a>
-<a href="#"><img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="flask"></a>
-<a href="#"><img src="https://img.shields.io/badge/GitBook-7B36ED?style=flat&logo=gitbook&logoColor=white" alt="gitbook"></a>
-<a href="#"><img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat&logo=GitHub%20Pages&logoColor=white" alt="github pages"></a>
+<a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node.js"></a>
+<a href="#"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"></a>
+<a href="#"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass"></a>
+<a href="#"><img src="https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white" alt="jekyll"></a>
+<a href="#"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask"></a>
+<a href="#"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"></a>
+<a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow"></a>
+<a href="#"><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy"></a>
+<a href="#"><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"></a>
+<a href="#"><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" alt="keras"></a>
 
 <h3>Tools</h3>
-<a href="#"><img src="https://img.shields.io/badge/Atom-66595C?style=flat&logo=Atom&logoColor=white" alt="atom"></a>
-<a href="#"><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white" alt="neovim"></a>
-<a href="#"><img src="https://img.shields.io/badge/Sublime_Text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important" alt="sublime text"></a>
-<a href="#"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white" alt="visual studio code"></a>
-<a href="#"><img src="https://custom-icon-badges.herokuapp.com/badge/VSCodium-007ACC.svg?style=flat&logo=vscodium&logoColor=white" alt="vscodium"></a>
-<a href="#"><img src="https://img.shields.io/badge/Replit-667881?style=flat&logo=replit&logoColor=white" alt="replit"></a>
-<a href="#"><img src="https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&color=525252" alt="colab"></a>
-<a href="#"><img src="https://img.shields.io/badge/Codepen-000000?style=flat&logo=codepen&logoColor=white" alt="codepen"></a>
-<a href="#"><img src="https://img.shields.io/badge/Overleaf-47A141?style=flat&logo=Overleaf&logoColor=white" alt="overleaf"></a>
-<a href="#"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" alt="notion"></a>
-<a href="#"><img src="https://img.shields.io/badge/Obsidian-483699?style=flat&logo=Obsidian&logoColor=white" alt="obsidian"></a>
-<a href="#"><img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=flate&logo=Firefox-Browser&logoColor=white" alt="firefox"></a>
-<a href="#"><img src="https://img.shields.io/badge/Git-F05033.svg?logo=git&style=flat&logoColor=white" alt="git"></a>
-<a href="#"><img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white" alt="google sheets"</a>
-<a href="#"><img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white" alt="trello"></a>
-<a href="#"><img src="https://img.shields.io/badge/iTerm2-000000?style=flat&logo=iterm2&logoColor=white" alt="iterm2"></a>
-<a href="#"><img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white" alt="macos"></a>
+<a href="#"><img src="https://custom-icon-badges.herokuapp.com/badge/VSCodium-007ACC.svg?style=for-the-badge&logo=vscodium&logoColor=white" alt="vscodium"></a>
+<a href="#"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="visual studio code"></a>
+<a href="#"><img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" alt="atom"></a>
+<a href="#"><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="neovim"></a>
+<a href="#"><img src="https://img.shields.io/badge/Sublime_Text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" alt="sublime text"></a>
+<a href="#"><img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="replit"></a>
+<a href="#"><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="colab"></a>
+<a href="#"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen"></a>
+<a href="#"><img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" alt="overleaf"></a>
+<a href="#"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="notion"></a>
+<a href="#"><img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white" alt="obsidian"></a>
+<a href="#"><img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="firefox"></a>
+<a href="#"><img src="https://img.shields.io/badge/Git-F05033.svg?logo=git&style=for-the-badge&logoColor=white" alt="git"></a>
+<a href="#"><img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white" alt="iterm2"></a>
+<a href="#"><img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macos"></a>
 
 <br><br>
 
 <h2 align="center">❤️</h2>
 <ul>
-    <li><a href="https://waneella.tumblr.com/post/182292641957/almost-all-the-objects-in-this-gif-were-suggested">Astounding artwork</a> by <a href="https://waneella.com">Valeriya "Waneella" Sanchillo</a></li>
+    <li>Artwork by <a href="https://waneella.com">Waneella</a></li>
     <li><a href="https://shields.io">shields.io</a></li>
     <li><a href="https://simpleicons.org/">simple-icons</a></li>
     <li><a href="https://github.com/alexandresanlim/Badges4-README.md-Profile">README Profile Badges</a></li>
     <li><a href="https://github.com/DenverCoder1/custom-icon-badges">custom-icon-badges</a></li>
 </ul>
-
-<sub>best viewed with a device width of at least 1160 pixels.</sub>
 </details>
