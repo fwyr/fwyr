@@ -41,26 +41,8 @@ so come again, who knows what you'll see? <br>
 
 <details close><summary>more information?</summary>
 <br>
-<h2 align="center">🫠</h2>
-
-```cpp
-class Person {
-    public:
-        string location;
-        string machine;
-        vector<string> human_languages;
-}
-    
-int main() {
-    my.location = "Singapore";
-    my.machine = "13-inch MacBook Air 2020"
-    my.human_languages = {"English", "Mandarin"};
-}
-```
-
-<br>
 <h2 align="center">🛠</h2>
-<h3>Ancient Tongues, Modern Dialects</h3>
+<h3>Languages</h3>
 <a href="#"><img src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue" alt="python"></a>
 <a href="#"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="c++"></a>
 <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="html5"></a>
@@ -70,7 +52,7 @@ int main() {
 <a href="#"><img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white" alt="bash"></a>
 <a href="#"><img src="https://img.shields.io/badge/Markdown-000000?style=flate&logo=markdown&logoColor=white" alt="markdown"></a>
     
-<h3>Magical Cogs and Tomes</h3>
+<h3>Cogs</h3>
 <a href="#"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="bootstrap"></a>
 <a href="#"><img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" alt="sass"></a>
 <a href="#"><img src="https://img.shields.io/badge/Jekyll-CC0000?style=flat&logo=Jekyll&logoColor=white" alt="jekyll"></a>
@@ -84,7 +66,7 @@ int main() {
 <a href="#"><img src="https://img.shields.io/badge/GitBook-7B36ED?style=flat&logo=gitbook&logoColor=white" alt="gitbook"></a>
 <a href="#"><img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat&logo=GitHub%20Pages&logoColor=white" alt="github pages"></a>
 
-<h3>Tools of The Trade</h3>
+<h3>Tools</h3>
 <a href="#"><img src="https://img.shields.io/badge/Atom-66595C?style=flat&logo=Atom&logoColor=white" alt="atom"></a>
 <a href="#"><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white" alt="neovim"></a>
 <a href="#"><img src="https://img.shields.io/badge/Sublime_Text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important" alt="sublime text"></a>
@@ -102,11 +84,6 @@ int main() {
 <a href="#"><img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white" alt="trello"></a>
 <a href="#"><img src="https://img.shields.io/badge/iTerm2-000000?style=flat&logo=iterm2&logoColor=white" alt="iterm2"></a>
 <a href="#"><img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white" alt="macos"></a>
-
-<h3>Bustling Alcoves</h3>
-<a href="https://codechef.com/users/fwyr"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=flat&logo=Codechef&logoColor=white" alt="codechef"></a>
-<a href="https://github.com/fwyr"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="github"></a>
-<a href="https://gitlab.com/objected"><img src="https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white" alt="gitlab"></a>
 
 <br><br>
 
