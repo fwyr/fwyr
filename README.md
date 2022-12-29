@@ -71,34 +71,35 @@
 </table>
 
 
-<hr><br>
+<hr>
 
-<details close><summary>more information?</summary>
-<br>
-<h2 align="center">🛠</h2>
-<h3>Languages</h3>
-<a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"></a>
+<table>
+    <tr><td colspan="2"><img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimg4.wikia.nocookie.net%2F__cb20140406130441%2Flegomessageboards%2Fimages%2Fd%2Fd2%2FBlank.png&f=1&nofb=1&ipt=640640abbc7402f11b604846c06a1247439f436a589b3efe4cbd3cee3bf2b89d&ipo=images" height="1" width="9999"></td></tr>
+    <tr><td colspan="2" align="center"><h2>🛠</h2></td></tr>
+    <tr><td width="30%" align="center"><br><h3>Languages</h3><br></td>
+        <td align="center"><br><a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"></a>
 <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"></a>
 <a href="#"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"></a>
     <a href="#"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python"></a>
 <a href="#"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++"></a>
 <a href="#"><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby"></a>
-    
-<h3>Cogs</h3>
-<a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node.js"></a>
+            <br><br></td>
+    </tr>
+    <tr><td width="30%" align="center"><br><h3>Frameworks/Libraries/Others</h3><br></td>
+        <td align="center"><br><a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node.js"></a>
 <a href="#"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"></a>
 <a href="#"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass"></a>
 <a href="#"><img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white" alt="sveltekit"></a>
 <a href="#"><img src="https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white" alt="jekyll"></a>
 <a href="#"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask"></a>
-<a href="#"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"></a>
 <a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow"></a>
 <a href="#"><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy"></a>
 <a href="#"><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"></a>
 <a href="#"><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" alt="keras"></a>
-
-<h3>Tools</h3>
-<a href="#"><img src="https://custom-icon-badges.herokuapp.com/badge/VSCodium-007ACC.svg?style=for-the-badge&logo=vscodium&logoColor=white" alt="vscodium"></a>
+            <br><br></td>
+    </tr>
+    <tr><td width="30%" align="center"><br><h3>Tools</h3><br></td>
+        <td align="center"><br><a href="#"><img src="https://custom-icon-badges.herokuapp.com/badge/VSCodium-007ACC.svg?style=for-the-badge&logo=vscodium&logoColor=white" alt="vscodium"></a>
 <a href="#"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="visual studio code"></a>
 <a href="#"><img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" alt="atom"></a>
 <a href="#"><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="neovim"></a>
@@ -113,15 +114,14 @@
 <a href="#"><img src="https://img.shields.io/badge/Git-F05033.svg?logo=git&style=for-the-badge&logoColor=white" alt="git"></a>
 <a href="#"><img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white" alt="iterm2"></a>
 <a href="#"><img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macos"></a>
-
-<br><br>
-
-<h2 align="center">❤️</h2>
-<ul>
-    <li>Artwork by <a href="https://waneella.com">Waneella</a></li>
-    <li><a href="https://shields.io">shields.io</a></li>
-    <li><a href="https://simpleicons.org/">simple-icons</a></li>
-    <li><a href="https://github.com/alexandresanlim/Badges4-README.md-Profile">README Profile Badges</a></li>
-    <li><a href="https://github.com/DenverCoder1/custom-icon-badges">custom-icon-badges</a></li>
-</ul>
-</details>
+            <br><br></td>
+    </tr>
+    <tr><td colspan="2" align="center"><h2>❤️</h2></td></tr>
+    <tr><td colspan="2" align="center"><br>
+    <p>Artwork by <a href="https://waneella.com">Waneella</a></p>
+    <p><a href="https://shields.io">shields.io</a></p>
+    <p><a href="https://simpleicons.org/">simple-icons</a></p>
+    <p><a href="https://github.com/alexandresanlim/Badges4-README.md-Profile">README Profile Badges</a></p>
+    <p><a href="https://github.com/DenverCoder1/custom-icon-badges">custom-icon-badges</a></p>
+</ul></td></tr>
+    
