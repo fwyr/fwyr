@@ -56,7 +56,7 @@
     i'm centered among the islands of <a href="https://en.wikipedia.org/wiki/Singapore"><strong>Singapore</strong></a>, <br>
     armed with a bare-bones <a href="https://support.apple.com/kb/SP813?locale=en_US"><strong>Macbook Air</strong></a>, <br>
     click-clacking away on a <a href="https://www.logitech.com/en-us/products/keyboards/k380-multi-device.920-007558.html"><strong>Logitech keyboard</strong></a>, <br>
-    and scrolling to the moon on an <a href="https://www.oppo.com/"><strong>Oppo smartphone</strong></a>. 
+    and scrolling to the moon when i have the time. 
     <br>
 </td>
 <td width="50%" align="center">
