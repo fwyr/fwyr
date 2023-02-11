@@ -1,6 +1,6 @@
 <div align="center">
     <a href="#"><img src="https://img.shields.io/badge/how-shall%20we%20comfort%20ourselves%3F-white"></a>
-    <h1>welcome, wanderer.</h1>
+    <h1>welcome.</h1>
 </div>
 
 <table width="100%">
