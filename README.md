@@ -89,13 +89,16 @@
         <td align="center"><br><a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node.js"></a>
 <a href="#"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"></a>
 <a href="#"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass"></a>
+<a href="#"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="vue"></a>
 <a href="#"><img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white" alt="sveltekit"></a>
 <a href="#"><img src="https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white" alt="jekyll"></a>
 <a href="#"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask"></a>
 <a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow"></a>
 <a href="#"><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy"></a>
 <a href="#"><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"></a>
+<a href="#"><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"></a>
 <a href="#"><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" alt="keras"></a>
+<a href="#"><img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="opencv"></a>
             <br><br></td>
     </tr>
     <tr><td width="30%" align="center"><br><h3>Tools</h3><br></td>
@@ -123,5 +126,5 @@
     <p><a href="https://simpleicons.org/">simple-icons</a></p>
     <p><a href="https://github.com/alexandresanlim/Badges4-README.md-Profile">README Profile Badges</a></p>
     <p><a href="https://github.com/DenverCoder1/custom-icon-badges">custom-icon-badges</a></p>
-</ul></td></tr>
+</ul><br></td></tr>
     
