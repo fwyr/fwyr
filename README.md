@@ -85,7 +85,7 @@
 <a href="#"><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby"></a>
             <br><br></td>
     </tr>
-    <tr><td width="30%" align="center"><br><h3>Frameworks/Libraries/Others</h3><br></td>
+    <tr><td width="30%" align="center"><br><h3>Frameworks & Libraries</h3><br></td>
         <td align="center"><br><a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node.js"></a>
 <a href="#"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"></a>
 <a href="#"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass"></a>
