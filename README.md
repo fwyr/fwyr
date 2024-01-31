@@ -16,7 +16,7 @@
         </tr>
         <tr>
           <th colspan="2" align="center">
-            <h3>i am <a href="https://brainrot.co"><code>~/.fwyr</code></a>, a real human being.</h3>
+            <h3>i am <a href="https://fwyr.cafe"><code>~/.fwyr</code></a>, a real human being.</h3>
           </th>
         </tr>
         <tr>
