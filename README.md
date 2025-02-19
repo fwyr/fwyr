@@ -3,7 +3,7 @@
   <body>
     <div align="center">
       <a href="#"><img src="https://img.shields.io/badge/happiness-has%20to%20be%20fought%20for-white" /></a>
-      <h1><a href="https://fwyr.cafe"><code>~/.fwyr</code></a></h1>
+      <h1><a href="https://fwyr.dev"><code>~/.fwyr</code></a></h1>
     </div>
     <table width="100%">
       <tbody>
